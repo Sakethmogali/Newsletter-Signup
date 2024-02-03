@@ -14,7 +14,7 @@ body{
 .main-cont{
     background-color:hsl(0, 0%, 100%);
     color: hsl(234, 29%, 20%);
-    width:50%;
+    width:720px;
     height: 450px;
     display: flex;
     justify-content: space-between;
@@ -28,7 +28,7 @@ img[src]
 }
 .img-cont img{
     height: 450px ;
-    width: 100% !important;
+    width: 300px !important;
 }
 .content-cont p,.content-cont span{
     font-size: 15px;
